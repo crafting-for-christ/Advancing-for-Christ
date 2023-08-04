@@ -1,1 +1,0 @@
-tag @s add lae_pyramid

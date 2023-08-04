@@ -1,0 +1,21 @@
+{
+	"parent": "cfc:root",
+	"criteria":
+	{
+		"blackstone":
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions":
+			{
+				"items": 
+				[
+					{"items": ["minecraft:blackstone"]}
+				]
+			}
+		}
+	},
+	"rewards":
+	{
+		"recipes": ["cfc:blackstone"]
+	}
+}
